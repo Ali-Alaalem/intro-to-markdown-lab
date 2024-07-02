@@ -6,7 +6,7 @@ A **_CSS_** selector is the first part of a **_CSS_** Rule. It is a pattern of e
 
 In other articles you may have met some different selectors, and learned that there are selectors that target the document in different ways — for example by selecting an element such as `h1`, or a class such as `.special`.
 
-In **_CSS_**, selectors are defined in the **_CSS_** Selectors specification; like any other part of **_CSS_** they need to have support in browsers for them to work. The majority of selectors that you will come across are defined in [Level 3 Selectors specification](thehttps://www.w3.org/TR/selectors-3/) and [Level 4 Selectors specification](https://www.w3.org/TR/selectors-4/) , which are both mature specifications, therefore you will find excellent browser support for these selectors.
+In **_CSS_**, selectors are defined in the **_CSS_** Selectors specification; like any other part of **_CSS_** they need to have support in browsers for them to work. The majority of selectors that you will come across are defined in [Level 3 Selectors specification](https://www.w3.org/TR/selectors-3/)  and [Level 4 Selectors specification](https://www.w3.org/TR/selectors-4/) , which are both mature specifications, therefore you will find excellent browser support for these selectors.
 
 ## Selector lists
 
